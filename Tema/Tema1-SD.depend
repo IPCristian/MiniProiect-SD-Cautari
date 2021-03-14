@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1615715858 source:c:\scoala\informatica\probleme c++\tema1-sd\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<algorithm>
+
+1615720148 source:c:\users\crysty\downloads\tema\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<algorithm>
+
